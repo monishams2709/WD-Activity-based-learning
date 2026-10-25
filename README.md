@@ -1,30 +1,51 @@
-README.md
-Case Studies Project
-Student Details
-Name: K. Monisha Sai
-Roll Number: 26000088
-Branch: CSE (Computer Science and Engineering)
-Section: 2
-Titles of the Three Selected Case Studies
-1. Online Food Ordering Website
 
-Description:
+# WD-Activity-Based-Learning
 
-An Online Food Ordering Website is a web-based application that allows users to browse food menus, view prices, select their favorite dishes, and place orders online. It provides a convenient way for customers to order food from restaurants without visiting them physically.
+## Student Details
 
-2. Travel Agency Website
+- **Name:** K. Monisha Sai
+- **Roll Number:** 26000088
+- **Branch:** Computer Science and Engineering (CSE)
+- **Section:** 2
 
-Description:
+## Selected Case Studies
 
-A Travel Agency Website is a web-based application that helps users explore travel destinations, view tour packages, and plan their trips. It provides information about tourist destinations, accommodation, transportation, and travel packages, helping users organize their journeys conveniently.
+### 1. Movie Review Page and Rating
 
-3. Movie Review and Rating Website
+Developed a movie review website using HTML and CSS to display movie details, reviews, ratings, and other information in an attractive layout.
 
-Description:
+### 2. Online Food Ordering
 
-A Movie Review and Rating Website is a web-based application that allows users to explore movies, read reviews, and rate films based on their opinions. It helps users discover movies by providing information about movie plots, genres, ratings, and reviews from other viewers.
+Designed an online food ordering website that allows users to explore food items, view menus, and browse available dishes through a user-friendly interface.
 
-Submitted by: K. Monisha Sai
-Roll Number: 26000088
-Branch: CSE
-Section: 2
+### 3. Travel Agency Website
+
+Created a travel agency website to showcase popular destinations, travel packages, and tour information with an attractive and organized design.
+
+## Technologies Used
+
+- **HTML5** – Used to structure the web pages and organize content.
+- **CSS3** – Used to style the websites with attractive colors, layouts, and designs.
+
+## Learning Outcomes
+
+- Learned the fundamentals of HTML and CSS.
+- Gained practical experience in website design.
+- Improved skills in creating user-friendly web interfaces.
+- Understood how to organize and present information on web pages.
+
+## Conclusion
+
+These three case studies provided practical experience in web development using HTML and CSS and helped improve website design skills and creativity.
+
+---
+
+## Author
+
+**K. Monisha Sai**  
+**Roll Number:** 26000088  
+**Branch:** Computer Science and Engineering (CSE)  
+**Section:** 2
+
+**Project:** Web Development Activity-Based Learning (WD-ABL)
+
