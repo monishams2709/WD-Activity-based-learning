@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html >
+<head>
+    </head>
+
+<body>
+<link rel ="stylesheet" href="pro.css">
+
+<header>
+    <h1>MOVIES ZONE</h1>
+    <p>latest movies . movie reviews . cast information  </p>
+    <p>watch your favourite movies here</p>
+</header>
+
+<nav>
+    <a href="#Home">Home</a>
+    <a href="#Movies">Movies</a>
+    <a href="#Genres">About</a>
+    <a href="#language">Language</a>
+    <a href="#Contact">Contact</a>
+</nav>
+
+
+    <h2>LATEST MOVIES🎥</h2>
+<a href="review 1.htm">
+<img src="https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_.jpg" alt="Movie Image" width="300" height="450"></a>
+<a href="review 2.html">
+<img src="https://tse1.explicit.bing.net/th/id/OIP.JCwal5EKgfyUwd-K54msHgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="300" height="450" alt="movie"></a>
+<a href="review 3.html">
+<img src="https://th.bing.com/th/id/OIP.Sm-u7MwxiFPeHrSDD7xxTgHaLH?w=202&h=303&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"width=""height="" alt=""></a>
+<a href="review 4.html">
+<img src="https://cdn.123telugu.com/content/wp-content/uploads/2025/04/HIT3-12.jpg"width="300"height="450" alt=""></a>
+<a href="review 5.html">
+<img src="https://m.media-amazon.com/images/M/MV5BYmNlM2NkNzEtODAwOS00MTFjLTljODAtNjJjODdhZjI5MGYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"width="300"height="450" alt=""></a>
+<a href="review 6.html">
+<img src="https://images.ottplay.com/images/hi-nanna-375.jpg?impolicy=ottplay-20210210&width=1200&height=675" width="300" height="450" alt=""></a>
+<a href="review 7.html">
+<img src="https://tse3.mm.bing.net/th/id/OIP.5RmssjJRgiMTZkRoZ-FHNgHaKk?r=0&pid=ImgDet&w=178&h=254&c=7&dpr=1.5&o=7&rm=3"width="300"height="450" alt=""></a>
+<a href="review 8.html">
+<img src="https://tse1.explicit.bing.net/th/id/OIP.YAxlZZNItVi0yAZayLw2tAAAAA?r=0&pid=ImgDet&w=178&h=250&c=7&dpr=1.5&o=7&rm=3"width="300"height="450" alt=""></a>
+<a href="review 9.html">
+<img src="https://static.digit.in/OTT/v2/images/optimised/govindudu-andarivadele-114630.webp" width="300"height="450" alt=""></a>
+<a href="review 10.html">
+<img src="https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/ZEEFIVE/MOVIE/66ff630b966a8617a153a04b/images/PORTRAIT/720x1080withlogoc0eca8933ff44967b0054ece636ab2b805b7a4e454554357a6bb18ca1af19ac2.jpg?o=production"width="300"height="450" alt=""></a>
+<footer>
+    <p>©about moviezone </p>
+        <p>|it provides  information about everyone in the movie including director  deatails | </p>
+        
+</footer>
+
+
+</body>
+</html>
+    
