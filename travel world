@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Travel World</title>
+
+<style>
+body {
+    font-family: Arial;
+    background-color: #eaf7ff;
+    margin: 0;
+}
+
+header {
+    background-color: #0088cc;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background-color: #222;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+
+section {
+    padding: 30px;
+    text-align: left;
+}
+
+.card {
+    display: inline-block;
+    background-color: white;
+    width: 200px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px gray;
+}
+
+.card h3 {
+    color: #0088cc;
+}
+
+h2 {
+    color: #0088cc;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>✈️ TRAVEL WORLD</h1>
+    <p>Explore • Travel • Enjoy</p>
+    <p>Discover Beautiful Places Around the World</p>
+</header>
+
+<nav>
+    <a href="#places">Places</a>
+    <a href="#packages">Packages</a>
+    <a href="#about">About</a>
+</nav>
+
+<section id="places">
+    <h2>🌍 Popular Places</h2>
+
+    <div class="card">
+        <h3>🏔️ Manali</h3>
+        <p>Beautiful mountains and cool weather.</p>
+    </div>
+
+    <div class="card">
+        <h3>🏖️ Goa</h3>
+        <p>Enjoy beaches, sunsets and fun activities.</p>
+    </div>
+
+    <div class="card">
+        <h3>🗼 Paris</h3>
+        <p>Explore the Eiffel Tower and beautiful streets.</p>
+    </div>
+</section>
+
+<section id="packages">
+    <h2> The places we Travel</h2>
+<img src="manail.png"width="500" height="500">
+<ul>
+<li>place:Manali</li>
+<li>Days:4 Days</li>
+<li>Price:6,000</li>
+</ul>
+<img src="goa beach.png"width="500" height="500">
+<ul> 
+<li>Place:Goa</li>
+<li>Days:6 days</li>
+<li>price:10,000</li>
+</ul>
+<ul>
+<img src="paris.png"width="500" height="500">
+<li>Place:Paris</li>
+<li>Days:10 Days</li>
+<li>Price:1,00,000</li>
+</ul>   
+</section>
+
+<section id="about">
+    <h2>🌟 About Us</h2>
+
+    <p>
+        Travel World helps you explore amazing destinations
+        and enjoy memorable trips with your family and friends.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Travel World | Explore the World 🌍</p>
+</footer>
+
+</body>
+</html>
